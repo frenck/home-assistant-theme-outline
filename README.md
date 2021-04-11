@@ -4,7 +4,6 @@
 ![Project Stage][project-stage-shield]
 ![Project Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
-
 [![Build Status][build-shield]][build]
 
 [![Sponsor Frenck via GitHub Sponsors][github-sponsors-shield]][github-sponsors]
@@ -112,7 +111,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[build-shield]: https://github.com/frenck/home-assistant-theme-outline/actions/workflows/tests.yaml/badge.svg
+[build-shield]: https://github.com/frenck/home-assistant-theme-outline/actions/workflows/linting.yaml/badge.svg
 [build]: https://github.com/frenck/home-assistant-theme-outline/actions/workflows/linting.yaml
 [contributors]: https://github.com/frenck/home-assistant-theme-outline/graphs/contributors
 [frenck]: https://github.com/frenck
