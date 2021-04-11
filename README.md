@@ -27,7 +27,7 @@ and tight.
 Nothing special, but if you just like the default Home Assistant theme, this
 might be a small variation that you might like.
 
-[![Home Assistant Theme: Outline; Before & After](images/before-after.png)](images/before-after.png)
+[![Home Assistant Theme: Outline; Before & After][preview]][preview]
 
 ## Installation
 
@@ -125,3 +125,4 @@ SOFTWARE.
 [releases-shield]: https://img.shields.io/github/release/frenck/home-assistant-theme-outline.svg
 [releases]: https://github.com/frenck/home-assistant-theme-outline/releases
 [semver]: http://semver.org/spec/v2.0.0.html
+[preview]: https://github.com/frenck/home-assistant-theme-outline/raw/main/images/before-after.png
