@@ -46,7 +46,7 @@ frontend:
 2. Search for `Outline`.
 3. Navigate to `Outline` theme.
 4. Press `Install`.
-5. Go to services and trigger the `frontend.reload_themes` service.
+5. You are awesome!
 
 ### Manual
 
