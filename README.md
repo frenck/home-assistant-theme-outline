@@ -11,7 +11,7 @@
 [![Support Frenck on Patreon][patreon-shield]][patreon]
 
 A Home Assistant Theme that makes all border more modern, minimalistic and
-tight.
+tight in both dark & light modes.
 
 ## About
 
@@ -28,6 +28,8 @@ Nothing special, but if you just like the default Home Assistant theme, this
 might be a small variation that you might like.
 
 [![Home Assistant Theme: Outline; Before & After][preview]][preview]
+
+This theme support both dark & light modes in a single theme.
 
 ## Installation
 
