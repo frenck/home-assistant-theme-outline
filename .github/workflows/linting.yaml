@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: ⤵️ Check out configuration from GitHub
-        uses: actions/checkout@v2.3.5
+        uses: actions/checkout@v2.4.0
       - name: 🚀 Run yamllint
         uses: frenck/action-yamllint@v1.1
 
@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - name: ⤵️ Check out configuration from GitHub
-        uses: actions/checkout@v2.3.5
+        uses: actions/checkout@v2.4.0
       - name: Running Remark lint
         uses: "docker://pipelinecomponents/remark-lint:latest"
         continue-on-error: true
@@ -35,7 +35,7 @@ jobs:
     name: HACS Lint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2.3.5
+      - uses: actions/checkout@v2.4.0
       - name: HACS Action
         uses: hacs/action@21.2.2
         with:
