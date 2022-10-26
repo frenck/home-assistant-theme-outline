@@ -21,6 +21,7 @@ needed.
 
 If you have installed this theme, please remove it. An update for this theme
 has been published actually to do anything at all.
+
 ## About
 
 This is probably the most minimalistic theme out there (in terms of what
