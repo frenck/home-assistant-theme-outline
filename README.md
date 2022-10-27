@@ -13,6 +13,15 @@
 A Home Assistant Theme that makes all border more modern, minimalistic and
 tight in both dark & light modes.
 
+### DEPRECATED!
+
+This theme is deprecated and no longer does anything. The small tweak this
+theme made, is now the default in Home Assistant. This theme is no longer
+needed.
+
+If you have installed this theme, please remove it. An update for this theme
+has been published actually to do anything at all.
+
 ## About
 
 This is probably the most minimalistic theme out there (in terms of what
