@@ -10,7 +10,7 @@
 # and tight.
 #
 # https://github.com/ChristophCaina/home-assistant-theme-outline
-outline-edge:
+outline (default):
   ha-card-border-radius: "4px"
   modes:
     light:
