@@ -1,26 +1,18 @@
-# Home Assistant Theme: Outline
-
-[![GitHub Release][releases-shield]][releases]
-![Project Stage][project-stage-shield]
-![Project Maintenance][maintenance-shield]
-[![License][license-shield]](LICENSE.md)
-[![Build Status][build-shield]][build]
-
-[![Sponsor Frenck via GitHub Sponsors][github-sponsors-shield]][github-sponsors]
+# Home Assistant Theme: Outline-Edge
 
 [![Support Frenck on Patreon][patreon-shield]][patreon]
 
+This Theme is a fork of Frenck's "Outline" theme, which will become depricated since the changes he made  
+became now the default Theme of HomeAssistant.
+
+Due to many replies in the Blog-Post of Home-Assistant (according the round edges on the card),  
+I've decided to create this variation where the round edges have been removed completely.
+
+Every thing else should still be like the default theme from HomeAssistant, because it is still mainly based on the theme from Frenck.
+
+
 A Home Assistant Theme that makes all border more modern, minimalistic and
 tight in both dark & light modes.
-
-### DEPRECATED!
-
-This theme is deprecated and no longer does anything. The small tweak this
-theme made, is now the default in Home Assistant. This theme is no longer
-needed.
-
-If you have installed this theme, please remove it. An update for this theme
-has been published actually to do anything at all.
 
 ## About
 
