@@ -1,0 +1,11 @@
+# default pre-2022.11 Theme
+
+outline-edge-Pre2022.11:
+  ha-card-border-radius: "4px"
+  ha-card-box-shadow: "0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12)"
+#  ha-card-
+  modes:
+    light:
+      border-color: "#E8E8E8"
+    dark:
+      border-color: "#1F1B24"
