@@ -26,7 +26,7 @@ and tight.
 Nothing special, but if you just like the default Home Assistant theme, this
 might be a small variation that you might like.
 
-[![Home Assistant Theme: Outline; Before & After][preview]][preview]
+![before-after](https://user-images.githubusercontent.com/26391061/199732349-e9d3ce2b-682e-4c85-894b-f0f24a4cd91e.png)
 
 This theme support both dark & light modes in a single theme.
 
