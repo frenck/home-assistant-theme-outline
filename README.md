@@ -1,7 +1,5 @@
 # Home Assistant Theme: Outline-Edge
 
-[![Support Frenck on Patreon][patreon-shield]][patreon]
-
 This Theme is a fork of Frenck's "Outline" theme, which will become depricated since the changes he made  
 became now the default Theme of HomeAssistant.
 
