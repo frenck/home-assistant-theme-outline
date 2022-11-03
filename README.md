@@ -1,34 +1,29 @@
 # Home Assistant Theme: Outline-Edge
 
-This Theme is a fork of Frenck's "Outline" theme, which will become depricated since the changes he made  
-became now the default Theme of HomeAssistant.
+This is a fork of the "depricated" Outline Theme provided by @frenck (https://github.com/frenck/home-assistant-theme-outline)
 
-Due to many replies in the Blog-Post of Home-Assistant (according the round edges on the card),  
-I've decided to create this variation where the round edges have been removed completely.
+While the original Theme has just removed the default shadow from the HomeAssistant Cards, this package does provide a few more options:
 
-Every thing else should still be like the default theme from HomeAssistant, because it is still mainly based on the theme from Frenck.
+1. "Default Home-Assistant Pre-2022.11.0 Theme"
+With the Release of Home-Assistant 2022.11.0, the default Theme has increased Border-Radius and no shadows anymore.
+Therefore, this package does include a Theme that recreates the default style from Homeassistant.
+![grafik](https://user-images.githubusercontent.com/26391061/199812201-69697d52-1d70-4576-803d-020295908201.png)
 
+2. "Original Outline-Theme"
+Furthermore, for those who liked the default Outline-Theme (default border-radius, but no shadows), a recreation of the Outline Theme is available
+![grafik](https://user-images.githubusercontent.com/26391061/199812458-bfaa0721-1f57-45ff-a841-5f7d807fefcd.png)
 
-A Home Assistant Theme that makes all border more modern, minimalistic and
-tight in both dark & light modes.
+3. "No Radius, but Shadows"
+If you don't want any Border-Radius, but you do like the Shadow on the Cards from the default, theme, there's also an option available:
+![grafik](https://user-images.githubusercontent.com/26391061/199812679-88fee8e7-ad79-4c7f-a160-12a09e988632.png)
 
-## About
+4. "No Radius, no Shadows"
+And finally, the reason why I created this theme (personally) - no Border-Radius, and no shadows...
+![grafik](https://user-images.githubusercontent.com/26391061/199812894-a15ca444-8675-499c-8bab-9e43fdb983de.png)
 
-This is probably the most minimalistic theme out there (in terms of what
-it actually does and changes).
+All 4 options do support Light & Dark mode - just as the original Outline-Theme did.
+Unfortunately, the shadows in the Dark mode aren't really visible (yet)... that's something I probably will change soon :)
 
-It respects almost all design choices and colors from Home Assistant, except
-one... the border/layering of the cards.
-
-This theme makes everything just a little tiny bit more modern, consistent,
-and tight.
-
-Nothing special, but if you just like the default Home Assistant theme, this
-might be a small variation that you might like.
-
-![before-after](https://user-images.githubusercontent.com/26391061/199732349-e9d3ce2b-682e-4c85-894b-f0f24a4cd91e.png)
-
-This theme support both dark & light modes in a single theme.
 
 ## Installation
 
@@ -41,15 +36,7 @@ frontend:
   ... # your configuration.
 ```
 
-### HACS
-
-1. Go to the Community Store.
-2. Search for `Outline`.
-3. Navigate to `Outline` theme.
-4. Press `Install`.
-5. You are awesome!
-
-### Manual
+### Manual Installation
 
 Clone this repository in your existing (or create it) `themes/` folder.
 
