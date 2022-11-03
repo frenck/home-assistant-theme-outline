@@ -42,7 +42,7 @@ Clone this repository in your existing (or create it) `themes/` folder.
 
 ```bash
 cd themes/
-git clone https://github.com/frenck/home-assistant-theme-outline
+git clone https://github.com/ChristophCaina/home-assistant-theme-outline-edge
 ```
 
 ## Changelog & Releases
@@ -98,19 +98,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-[build-shield]: https://github.com/frenck/home-assistant-theme-outline/actions/workflows/linting.yaml/badge.svg
-[build]: https://github.com/frenck/home-assistant-theme-outline/actions/workflows/linting.yaml
-[contributors]: https://github.com/frenck/home-assistant-theme-outline/graphs/contributors
-[frenck]: https://github.com/frenck
-[github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
-[github-sponsors]: https://github.com/sponsors/frenck
-[license-shield]: https://img.shields.io/github/license/frenck/home-assistant-theme-outline.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
-[patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
-[patreon]: https://www.patreon.com/frenck
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[releases-shield]: https://img.shields.io/github/release/frenck/home-assistant-theme-outline.svg
-[releases]: https://github.com/frenck/home-assistant-theme-outline/releases
-[semver]: http://semver.org/spec/v2.0.0.html
-[preview]: https://github.com/frenck/home-assistant-theme-outline/raw/main/images/before-after.png
