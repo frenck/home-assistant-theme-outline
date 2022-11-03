@@ -8,7 +8,7 @@
 # and tight.
 #
 # https://github.com/ChristophCaina/home-assistant-theme-outline
-outline-edge:
+outline-edge-without-shadow:
   ha-card-border-radius: "0px"
   modes:
     light:
