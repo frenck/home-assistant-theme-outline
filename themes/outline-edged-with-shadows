@@ -1,0 +1,21 @@
+---
+#outline-edged with shadow
+
+
+# This is probably the most minimalistic theme out there.
+#
+# It respects almost all design choices and colors from Home Assistant, except
+# one... the border/layering of the cards.
+#
+# This theme makes everything just a little tiny bit more modern, consistent
+# and tight.
+#
+# https://github.com/ChristophCaina/home-assistant-theme-outline
+outline-edge-with-shadow:
+  ha-card-border-radius: "0px"
+  ha-card-box-shadow: "0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12)"
+  modes:
+    light:
+      border-color: "#E8E8E8"
+    dark:
+      border-color: "#1F1B24"
