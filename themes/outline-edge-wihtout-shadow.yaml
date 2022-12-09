@@ -9,9 +9,58 @@
 #
 # https://github.com/ChristophCaina/home-assistant-theme-outline
 outline-edge (no shadows):
+
+  # restore color options
+  state-default-color: '#44739E' # Blue-Grey
+  state-alarm-armed-color: '#F44336' # Red
+  state-alarm-arming-color: '#FF9800' # Orange
+  state-alarm-pending-color: '#FF9800' # Orange
+  state-alarm-triggered-color: '#F44336' # Red
+  state-alert-color: '#F44336' # Red
+  state-automation-color: '#FFC107' # Amber
+  state-binary-sensor-color: '#FFC107' # Amber
+  state-binary-sensor-alerting-color: '#F44336' # Red
+  state-calendar-color: '#2196F3' # Blue
+  state-camera-color: '#2196F3' # Blue
+  state-climate-auto-color: '#4CAF50' # Green
+  state-climate-cool-color: '#2196F3' # Blue
+  state-climate-dry-color: '#FF9800' # Orange
+  state-climate-fan-only-color: '#00BCD4' # Cyan
+  state-climate-heat-color: '#FF5722' # Deep Orange
+  state-climate-heat-cool-color: '#FFC107' # Amber
+  state-climate-idle-color: '#BDBDBD' # Disabled (Light Grey)
+  state-cover-color: '#9C27B0' # Purple
+  state-fan-color: '#00BCD4' # Cyan
+  state-group-color: '#FFC107' # Amber
+  state-humidifier-color: '#2196F3' # Blue
+  state-input-boolean-color: '#FFC107' # Amber
+  state-light-color: '#FFC107' # Amber
+  state-lock-jammed-color: '#F44336' # Red
+  state-lock-locked-color: '#4CAF50' # Green
+  state-lock-pending-color: '#FF9800' # Orange
+  state-media-player-color: '#3F51B5' # Indigo
+  state-person-home-color: '#4CAF50' # Green
+  state-person-zone-color: '#2196F3' # Blue
+  state-remote-color: '#2196F3' # Blue
+  state-script-color: '#FFC107' # Amber
+  state-sensor-battery-high-color: '#4CAF50' # Green
+  state-sensor-battery-low-color: '#F44336' # Red
+  state-sensor-battery-medium-color: '#FF9800' # Orange
+  state-sensor-battery-unknown-color: '#BDBDBD' # Disabled (Light Grey)
+  state-siren-color: '#F44336' # Red
+  state-sun-day-color: '#FFC107' # Amber
+  state-sun-night-color: '#673AB7' # Deep Purple
+  state-switch-color: '#FFC107' # Amber
+  state-timer-color: '#FFC107' # Amber
+  state-update-color: '#4CAF50' # Green
+  state-update-installing-color: '#FF9800' # Orange
+  state-vacuum-color: '#009688' # Teal
+  
   ha-card-border-radius: "0px"
   modes:
     light:
       border-color: "#E8E8E8"
+      state-default-color: '#44739E' # Blue-Grey
     dark:
       border-color: "#1F1B24"
+      state-default-color: '#44739E' # Blue-Grey
